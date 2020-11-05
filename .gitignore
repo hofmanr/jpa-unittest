@@ -1,0 +1,22 @@
+# Log file
+*.log
+
+# Intellij
+.idea/
+build/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Gradle
+.gradle/
+
+# Maven
+log/
+target/
+*.jar
+*.class
+generated-java/
+
